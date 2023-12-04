@@ -1,4 +1,4 @@
-# Google Chrome 機能拡張 / Gmail 検索補助 - Gmail Operator Helper -
+# Gmail 検索補助 - Gmail Operator Helper -
 
 ## 概要
 
