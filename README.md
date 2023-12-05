@@ -21,9 +21,8 @@
 ## インストール
 
 * Chrome Web Store からインストール
-* 2023.12.04 審査要求、
-  * 公開次第、URL を本文書にも追加予定
-
+  - [Gmail_検索補助:](https://chromewebstore.google.com/detail/nkkpdhhloipeefegfmokeifgdnjaafeo?hl=ja)
+  - 2023.12.04 審査提出、同年12.05 より公開
 ---
 
 ## ライセンス
