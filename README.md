@@ -5,6 +5,9 @@
 * Google Chrome の拡張機能
 * Gmail の検索ボックスで使用する「検索演算子」（例: 未読の記事は「is:unread」）を右クリックメニューから選択、入力できるようにする
 
+![gmail_helper](https://github.com/mikiakira/gmail_operator_helper/assets/7257513/9b85232f-90d8-4e60-88f3-e3c67266c5a1)
+
+
 ---
 
 ## 使用できるメニューと検索演算子
